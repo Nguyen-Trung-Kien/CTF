@@ -20,3 +20,4 @@ there is only 1 church
 
 ![image](https://user-images.githubusercontent.com/65381453/132128892-2db10cf1-0574-42b5-8e3e-ad61de001583.png)
 
+Hotel Hohenwart -> flag
