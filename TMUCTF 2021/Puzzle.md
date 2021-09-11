@@ -49,16 +49,27 @@ is it difficult to understand?
 oke
 
 Line 1: 12 -> one 1 and one 2
+
 deduce : Line 2: 1 + 11+ 12 -> 11112
+
 Line 2: 11112 -> four 1 and one 2
+
 deduce : Line 3: 2 + 41 + 12 -> 24112
+
 Line 3: 24112 -> two 2 + one 4 + two 1
+
 deduce : Line 4: 3 + 22+14+21 -> 3221421
+
 Line 4: 3221421 -> one 3 + three 2 + two 1+ one 4
+
 deduce : Line 5: 4 +13+32+21+14 -> 413322114
+
 Line 5: 413322114 -> two 4+ three 1+two 3+ two 2
+
 deduce : Line 6: 5 + 24+ 31+23+22 -> 524312322
+
 Line 6: 524312322 -> one 5 + four 2+ one 4 + two 3 + one 1
+
 deduce : line 7: 6 + 15+42+14+23+11 -> 61542142311
 
 this is password and 
