@@ -19,4 +19,4 @@ Get flag
 
 ![image](https://user-images.githubusercontent.com/65381453/134667589-74ee1117-2196-4560-bfe9-ba340a025316.png)
 
-<a DUCTF{+61420091337} > </a>
+<a href="DUCTF{+61420091337}" > </a>
